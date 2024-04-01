@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn No Login",
+  "description": "Simple plugin to bypass linkedIn login",
+  "version": "1.0",
+  "action": {
+    "default_popup": "default.html",
+    "default_icon": "icon.png"
+  }
+}
